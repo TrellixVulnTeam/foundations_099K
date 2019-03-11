@@ -17,7 +17,7 @@ Projects/Excercises/Resources... are created with:
 * Python
 * Javascript
 
-[junior dev meme](https://goo.gl/images/L4EN1E)
+(https://goo.gl/images/L4EN1E)[junior dev meme]
 
 
 
