@@ -20,7 +20,8 @@ print("""
 <html>
 <body>
 <p>
-Thanks %s, that worked. :)
+Thanks %s, that worked. :) <br>
+You just saw a whole application in action.
 </p>
 </body>
 </html>
