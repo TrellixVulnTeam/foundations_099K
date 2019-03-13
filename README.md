@@ -5,13 +5,20 @@
 * [Technologies](#technologies)
 
 ## General info
-This repo contains my first exercises, experiences and projects related to Software Engineering, done and learned in the foundation semester @CODE University Berlin!
-In detail it contains a range of little coding excersices, small websites, servers, tryouts, resources(offerd by our Professor) and also my first big SE Project. (yaaaay!)
-The folders are sorted by 1,2,3... for a reason. The reason simply is which part/week of the semester we worked on that topic/exercise.
+This repo contains exercises and projects related to the Software Engineering Foundation Semester I did at CODE University Berlin.
+
+* Simple CGI Application (Python)
+* Simple WSGI Application (Python)
+* Python Excercises & Workspaces 
+* Javascript as part of Final Project
+* HTML/CSS Coding practices
+
+* and much more to come...!
+
 
 	
 ## Technologies
-Projects/Excercises/Resources... are created with:
+Projects/Excercises/Resources... are created with and not limited to:
 * HTML
 * CSS
 * Python
