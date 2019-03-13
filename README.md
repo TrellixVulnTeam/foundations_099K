@@ -17,7 +17,7 @@ Projects/Excercises/Resources... are created with:
 * Python
 * Javascript
 
-![Junior Dev. Meme](https://github.com/lucdoe/foundations/blob/master/1_playground(css%2C%20js)/css_hover/juniorDevPic.jpeg)
+
 
 
 
