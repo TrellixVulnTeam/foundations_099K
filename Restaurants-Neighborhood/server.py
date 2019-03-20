@@ -15,7 +15,7 @@ db_cursor.execute('SELECT * FROM restaurants')
 all_restaurants = db_cursor.fetchall()
 	
 
-message = "<p> List of Restaurants in {}. </p>".format()
+message = "<p> List of Restaurants in Kreuzberg. </p>"
 
 for restaurant in all_restaurants:
 	message += "<ul>"
