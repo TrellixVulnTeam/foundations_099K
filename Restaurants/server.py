@@ -15,7 +15,7 @@ db_cursor.execute('SELECT * FROM restaurants')
 all_restaurants = db_cursor.fetchall()
 	
 
-message = "<p> List of Restaurants in {}. </p>".format()
+message = "<p> List of Restaurants in Berlin. </p>"
 
 for restaurant in all_restaurants:
 	message += "<ul>"
@@ -29,7 +29,7 @@ def simple_app(_environ, start_response):
 	headers = [('Content-type', 'text/html; charset=utf-8')]
 	start_response(status, headers)
 	# HTML body to be rendered
-	body = [message.encode("utf-8")]
+	body = [	.encode("utf-8")]
 
 	return body
 
