@@ -1,6 +1,6 @@
 import os
-
 from flask import Flask
+
 
 # create_app is the application factory function
 
@@ -13,7 +13,7 @@ def create_app(test_config=None):
     app.config.from_mapping(
         SECRET_KEY='dev',
         # path where the SQLite database file will be saved
-        DATABASE=os.path.join(app.instance_path, 'flaskr.sqlite'),
+        DATABASE=os.path.join(app.instance_path, 'flaskapp.sqlite'),
     )
 
     if test_config is None:
